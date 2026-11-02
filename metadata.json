@@ -1,0 +1,6 @@
+{
+  "name": "Propuesta Comercial - Santa Ana 3845",
+  "description": "Generador y visor de propuesta comercial inmobiliaria descargable en PDF para la operación de Santa Ana 3845, Córdoba.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
